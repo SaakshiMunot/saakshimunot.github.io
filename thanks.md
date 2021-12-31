@@ -2,12 +2,11 @@
 title: Acknowledgment
 permalink: /thanks/
 layout: page
-excerpt: Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+excerpt: Thanks for visiting my website. In the case you wish to contact me,  please email me. 
 comments: false
 ---
-
-Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
-
+Thanks for visiting my website. In the case you wish to contact me,  please email me 📧. 
 <hr>
 
-Hopefully the knowledge that I got from them can be useful, and become a charity for them, Aamiin.
+Well, In case you don't see me Good Afternoon, Good Evening and Good Night 😎.
+Well, I'm not usually one for speeches. SO, GOODBYE. 👋🏽
